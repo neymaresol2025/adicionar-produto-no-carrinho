@@ -2,6 +2,7 @@
 //JavaScript
 
 const { Builder, By, Key, until } = require('selenium-webdriver')
+const { Builder, By, Key, until } = require('selenium-webdriver')
 const assert = require('assert')
 
 describe('Adicionar_produto_carrinho', function() {
